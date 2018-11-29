@@ -1,0 +1,50 @@
+general
+deaths
+evacuation
+death
+casualty
+casualties
+fatality
+fatalities
+scientists
+
+volcano
+magma
+lava
+eruption
+earthquake
+magnitude
+richter
+
+hurricane
+high winds
+heavy rain
+flooding
+floodwater
+drowning
+category
+cat.
+category 1
+cat. 1
+category 2
+cat. 2
+category 3
+cat. 3
+category 4
+cat. 4
+category 5
+cat. 5
+
+earthquake
+magnitude
+richter
+
+tornado
+
+tsunami
+earthquake
+magnitude
+richter
+
+wildfire
+
